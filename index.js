@@ -25,6 +25,6 @@ function prependKitten(name){
 }
 
 function removeLastKitten(){
-iceCreams.slice(0, iceCreams.length - 1) // ["chocolate", "vanilla"]
-iceCreams
+kittens.slice(0, kittens.length - 1);
+return kittens;
 }
