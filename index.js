@@ -25,6 +25,6 @@ function prependKitten(name){
 }
 
 function removeLastKitten(){
-  kittens.pop();
-  return kittens;
+iceCreams.slice(0, iceCreams.length - 1) // ["chocolate", "vanilla"]
+iceCreams
 }
